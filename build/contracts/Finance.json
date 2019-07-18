@@ -34,14 +34,14 @@
     "absolutePath": "contracts/Finance.sol",
     "exportedSymbols": {
       "Finance": [
-        276
+        230
       ]
     },
-    "id": 277,
+    "id": 231,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 266,
+        "id": 220,
         "literals": [
           "solidity",
           "^",
@@ -49,7 +49,7 @@
           ".25"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:7"
+        "src": "0:24:6"
       },
       {
         "baseContracts": [],
@@ -57,9 +57,9 @@
         "contractKind": "contract",
         "documentation": "@title Finance interface.",
         "fullyImplemented": false,
-        "id": 276,
+        "id": 230,
         "linearizedBaseContracts": [
-          276
+          230
         ],
         "name": "Finance",
         "nodeType": "ContractDefinition",
@@ -67,7 +67,7 @@
           {
             "body": null,
             "documentation": null,
-            "id": 275,
+            "id": 229,
             "implemented": false,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -75,16 +75,16 @@
             "name": "deposit",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 273,
+              "id": 227,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 268,
+                  "id": 222,
                   "name": "_token",
                   "nodeType": "VariableDeclaration",
-                  "scope": 275,
-                  "src": "104:14:7",
+                  "scope": 229,
+                  "src": "104:14:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -92,10 +92,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 267,
+                    "id": 221,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "104:7:7",
+                    "src": "104:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -106,11 +106,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 270,
+                  "id": 224,
                   "name": "_amount",
                   "nodeType": "VariableDeclaration",
-                  "scope": 275,
-                  "src": "120:15:7",
+                  "scope": 229,
+                  "src": "120:15:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -118,10 +118,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 269,
+                    "id": 223,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "120:7:7",
+                    "src": "120:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -132,11 +132,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 272,
+                  "id": 226,
                   "name": "_reference",
                   "nodeType": "VariableDeclaration",
-                  "scope": 275,
-                  "src": "137:17:7",
+                  "scope": 229,
+                  "src": "137:17:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -144,10 +144,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 271,
+                    "id": 225,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "137:6:7",
+                    "src": "137:6:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -157,40 +157,40 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "103:52:7"
+              "src": "103:52:6"
             },
             "payable": true,
             "returnParameters": {
-              "id": 274,
+              "id": 228,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "172:0:7"
+              "src": "172:0:6"
             },
-            "scope": 276,
-            "src": "87:86:7",
+            "scope": 230,
+            "src": "87:86:6",
             "stateMutability": "payable",
             "superFunction": null,
             "visibility": "external"
           }
         ],
-        "scope": 277,
-        "src": "64:111:7"
+        "scope": 231,
+        "src": "64:111:6"
       }
     ],
-    "src": "0:176:7"
+    "src": "0:176:6"
   },
   "legacyAST": {
     "absolutePath": "contracts/Finance.sol",
     "exportedSymbols": {
       "Finance": [
-        276
+        230
       ]
     },
-    "id": 277,
+    "id": 231,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 266,
+        "id": 220,
         "literals": [
           "solidity",
           "^",
@@ -198,7 +198,7 @@
           ".25"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:7"
+        "src": "0:24:6"
       },
       {
         "baseContracts": [],
@@ -206,9 +206,9 @@
         "contractKind": "contract",
         "documentation": "@title Finance interface.",
         "fullyImplemented": false,
-        "id": 276,
+        "id": 230,
         "linearizedBaseContracts": [
-          276
+          230
         ],
         "name": "Finance",
         "nodeType": "ContractDefinition",
@@ -216,7 +216,7 @@
           {
             "body": null,
             "documentation": null,
-            "id": 275,
+            "id": 229,
             "implemented": false,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -224,16 +224,16 @@
             "name": "deposit",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 273,
+              "id": 227,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 268,
+                  "id": 222,
                   "name": "_token",
                   "nodeType": "VariableDeclaration",
-                  "scope": 275,
-                  "src": "104:14:7",
+                  "scope": 229,
+                  "src": "104:14:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -241,10 +241,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 267,
+                    "id": 221,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "104:7:7",
+                    "src": "104:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -255,11 +255,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 270,
+                  "id": 224,
                   "name": "_amount",
                   "nodeType": "VariableDeclaration",
-                  "scope": 275,
-                  "src": "120:15:7",
+                  "scope": 229,
+                  "src": "120:15:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -267,10 +267,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 269,
+                    "id": 223,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "120:7:7",
+                    "src": "120:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -281,11 +281,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 272,
+                  "id": 226,
                   "name": "_reference",
                   "nodeType": "VariableDeclaration",
-                  "scope": 275,
-                  "src": "137:17:7",
+                  "scope": 229,
+                  "src": "137:17:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -293,10 +293,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 271,
+                    "id": 225,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "137:6:7",
+                    "src": "137:6:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -306,27 +306,27 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "103:52:7"
+              "src": "103:52:6"
             },
             "payable": true,
             "returnParameters": {
-              "id": 274,
+              "id": 228,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "172:0:7"
+              "src": "172:0:6"
             },
-            "scope": 276,
-            "src": "87:86:7",
+            "scope": 230,
+            "src": "87:86:6",
             "stateMutability": "payable",
             "superFunction": null,
             "visibility": "external"
           }
         ],
-        "scope": 277,
-        "src": "64:111:7"
+        "scope": 231,
+        "src": "64:111:6"
       }
     ],
-    "src": "0:176:7"
+    "src": "0:176:6"
   },
   "compiler": {
     "name": "solc",
@@ -334,5 +334,5 @@
   },
   "networks": {},
   "schemaVersion": "2.0.2",
-  "updatedAt": "2019-07-17T09:07:44.234Z"
+  "updatedAt": "2019-07-18T07:05:30.365Z"
 }

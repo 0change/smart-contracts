@@ -8,7 +8,7 @@ contract DAOWallet{
   Finance internal finance;
   ERC20 internal token;
 
-  address public financeAddress = 0X0;
+  address public financeAddress = 0x040a58A29C4010aA93025FbC1c99f007951F4Ebe;
   uint256 public id;
 
   string private constant APPROVE_ERROR = "APPROVE RROR";
